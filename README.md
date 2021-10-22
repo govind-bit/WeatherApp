@@ -1,3 +1,3 @@
 # WeatherApp
 
-Link - weather-js-basic.netlify.app
+Link - https://weather-js-basic.netlify.app
